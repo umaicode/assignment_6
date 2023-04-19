@@ -18,5 +18,14 @@
     <ClCompile Include="6장과제2023.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="practice2_chatGPT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_chatGPT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6장과제2023_2%28finished%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
